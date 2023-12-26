@@ -23,7 +23,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
+
 # Procedure :
+
 1. Construct frequency distribution for the data
 
 2. Find the  probability distribution from frequency distribution.
@@ -39,13 +41,16 @@ It shows the distance of a random variable from its mean. It is calcualted as
 5.  Calculate variance using 
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
-    
+
+
 # Experiment :
-![image](https://github.com/harshi1111/Mean-and-Variance/assets/84671735/852b7d58-4891-470d-917f-59c973331100)
+
+![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
+
 # Program :
 ```
-DEVELOPED BY : HARSHITHA V
-REGISTER NO  : 23002305
+Name: Harshitha V
+Reg.No:2122223230074
 ```
 ```
 import numpy as np
@@ -71,8 +76,12 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
+
+
 # Output : 
-![image](https://github.com/harshi1111/Mean-and-Variance/assets/84671735/79a9ea33-35a0-4a1a-bd4e-d27dc8d5b858)
+![image](https://github.com/22002525karthikeyan/Mean-and-Variance/assets/118708040/e58575b3-0185-45a1-b904-97539b07979a)
+
+
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
